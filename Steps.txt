@@ -1,4 +1,4 @@
-1. Extract the file
+1. Download the Project.
 2. Open in Pythcharm or VS code
 3. Install Requirements.txt using this command pip install -r Requirements.txt
 4. locate manage.py file in terminal 
