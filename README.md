@@ -7,28 +7,12 @@ Two Algorithms are used here for file encryption and decryption are as follows
 
 1) Advanced Encryption Standard (AES) is a specification for the encryption of electronic data established by the U.S National Institute of Standards and Technology (NIST) in 2001. AES is widely used today as it is a much stronger than DES and triple DES despite being harder to implement.
 Points to remember
-AES is a block cipher.
-The key size can be 128/192/256 bits.
-Encrypts data in blocks of 128 bits each.
-That means it takes 128 bits as input and outputs 128 bits of encrypted cipher text as output. AES relies on substitution-permutation network principle which means it is performed using a series of linked operations which involves replacing and shuffling of the input data.
-Working of the cipher:
-AES performs operations on bytes of data rather than in bits. Since the block size is 128 bits, the cipher processes 128 bits (or 16 bytes) of the input data at a time.
-The number of rounds depends on the key length as follows:
-128 bits key – 10 rounds
-192 bits key – 12 rounds
-256 bits key – 14 rounds
-
-
 
 2) RSA algorithm is asymmetric cryptography algorithm. Asymmetric actually means that it works on two different keys i.e. Public Key and Private Key. As the name describes that the Public Key is given to everyone and Private key is kept private.
 An example of asymmetric cryptography :
 1.	A client (for example browser) sends its public key to the server and requests for some data.
 2.	The server encrypts the data using client’s public key and sends the encrypted data.
 3.	Client receives this data and decrypts it.
-Since this is asymmetric, nobody else except browser can decrypt the data even if a third party has public key of browser.
-The idea! The idea of RSA is based on the fact that it is difficult to factorize a large integer. The public key consists of two numbers where one number is multiplication of two large prime numbers. And private key is also derived from the same two prime numbers. So, if somebody can factorize the large number, the private key is compromised. Therefore, encryption strength totally lies on the key size and if we double or triple the key size, the strength of encryption increases exponentially. RSA keys can be typically 1024 or 2048 bits long, but experts believe that 1024 bit keys could be broken in the near future. But till now it seems to be an infeasible task.
-
-
 
 Applications: -
 
