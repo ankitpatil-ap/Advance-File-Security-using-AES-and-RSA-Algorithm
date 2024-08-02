@@ -17,7 +17,7 @@ An example of asymmetric cryptography :
 
 Applications: -
 
-•	Through encryption, AFS helps keep sensitive files safe from hackers or data thieves who gain unauthorized access to a computing network or devices.
+•	Through encryption, AFS helps protect sensitive files from hackers or data thieves who gain unauthorized access to a computing network or devices.
 •	Commercial Companies which need to deal with third party companies for project contracts need a system where data cannot be steeled or modified.
 •	To Share files among trusted clients over any social network where hackers cannot decrypt the file.
 
@@ -33,3 +33,5 @@ Screenshots of Project:
 ![2022-07-12 (13)](https://user-images.githubusercontent.com/63675385/178553566-4a90387f-15fb-47d3-8645-3fd99fc8c767.png)
 ![2022-07-12 (14)](https://user-images.githubusercontent.com/63675385/178553571-d578c17a-7435-4659-a66d-820700e0ce98.png)
 
+
+I am now adding more features to this web app. It's like face unlock.
