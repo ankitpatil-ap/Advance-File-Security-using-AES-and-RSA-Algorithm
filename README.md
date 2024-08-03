@@ -1,19 +1,19 @@
 # Advance-File-Security-using-AES-and-RSA-Algorithm
-This is the version 1 of the project to have complete flow of encryption and decryption.
+This is version 1 of the project, which has the complete flow of encryption and decryption.
 Django Web App using AES and RSA Algorithm on which you encrypt or decrypt single/multiple files with advance level of encryption and security.
 
 Read Steps file and then run the project.
 
 Two Algorithms are used here for file encryption and decryption are as follows 
 
-1) Advanced Encryption Standard (AES) is a specification for the encryption of electronic data established by the U.S National Institute of Standards and Technology (NIST) in 2001. AES is widely used today as it is a much stronger than DES and triple DES despite being harder to implement.
+1) Advanced Encryption Standard (AES) is a specification for the encryption of electronic data established by the U.S National Institute of Standards and Technology (NIST) in 2001. AES is widely used today as it is much stronger than DES and triple DES despite being harder to implement.
 Points to remember
 
-2) RSA algorithm is asymmetric cryptography algorithm. Asymmetric actually means that it works on two different keys i.e. Public Key and Private Key. As the name describes that the Public Key is given to everyone and Private key is kept private.
+2) RSA algorithm is an asymmetric cryptography algorithm. Asymmetric actually means that it works on two different keys i.e. Public Key and Private Key. As the name describes that the Public Key is given to everyone and the Private key is kept private.
 An example of asymmetric cryptography :
-1.	A client (for example browser) sends its public key to the server and requests for some data.
+1.	A client (for example, a browser) sends its public key to the server and requests for some data.
 2.	The server encrypts the data using client’s public key and sends the encrypted data.
-3.	Client receives this data and decrypts it.
+3.	The client receives this data and decrypts it.
 
 Applications: -
 
