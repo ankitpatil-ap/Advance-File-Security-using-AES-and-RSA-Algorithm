@@ -20,7 +20,7 @@ Applications: -
 •	Through encryption, AFS helps protect sensitive files from hackers or data thieves who gain unauthorized access to a computing network or devices.
 •	Commercial Companies which need to deal with third party companies for project contracts need a system where data cannot be steeled or modified.
 •	To Share files among trusted clients over any social network where hackers cannot decrypt the file.
-
+  
 
 Screenshots of Project:
 
