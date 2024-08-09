@@ -7,7 +7,7 @@ Read Steps file and then run the project.
 Two Algorithms are used here for file encryption and decryption are as follows 
 
 1) Advanced Encryption Standard (AES) is a specification for the encryption of electronic data established by the U.S National Institute of Standards and Technology (NIST) in 2001. AES is widely used today as it is much stronger than DES and triple DES despite being harder to implement.
-Points to remember
+Points to remember 
 
 2) RSA algorithm is an asymmetric cryptography algorithm. Asymmetric actually means that it works on two different keys i.e. Public Key and Private Key. As the name describes that the Public Key is given to everyone and the Private key is kept private.
 An example of asymmetric cryptography :
