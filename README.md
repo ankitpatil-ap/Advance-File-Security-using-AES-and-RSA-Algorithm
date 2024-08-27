@@ -4,7 +4,7 @@ Django Web App using AES and RSA Algorithm on which you encrypt or decrypt singl
 
 Read Steps file and then run the project.
 
-Two Algorithms are used here for file encryption and decryption are as follows 
+Two Algorithms are used here for file encryption and decryption are as follows :
 
 1) Advanced Encryption Standard (AES) is a specification for the encryption of electronic data established by the U.S National Institute of Standards and Technology (NIST) in 2001. AES is widely used today as it is much stronger than DES and triple DES despite being harder to implement.
 Points to remember 
